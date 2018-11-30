@@ -1,2 +1,2 @@
-# ReplicatingText
-Prints a butt ton of text on the screen in random colors in random positions using pygame. Not specialized at all. Really just some stupid joke that I thought was kinda funny.
+#Just some mini projects that i created using pygame
+GaIsGay replicates a given string all over the screen
